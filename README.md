@@ -13,5 +13,3 @@ class Skills extends Desenvolvedor {
   frameworks = ["Nextjs", "Nestjs", "React Native"];
 }
 ```
-
-![snake gif](https://github.com/gbevi/gbevi/blob/output/github-contribution-grid-snake.svg)
