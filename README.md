@@ -14,5 +14,5 @@ class Skills extends Desenvolvedor {
 }
 ```
 
-![Snake animation](https://raw.githubusercontent.com/gbevi/gbevi/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gbevi/gbevi/output/github-contribution-grid-snake.gif)
 
