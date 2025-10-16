@@ -3,8 +3,7 @@ import Desenvolvedor from "gbevi";
 
 class SobreMim extends Desenvolvedor {
   nome = "Gabriel";
-  area = "Desenvolvedor full-stack";
-  trabalho = "CJR";
+  area = "Desenvolvedor";
   local = "Brasília";
 }
 
